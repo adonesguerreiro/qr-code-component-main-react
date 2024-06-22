@@ -1,0 +1,10 @@
+.card-qr-code {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: hsl(0, 0%, 100%);
+	flex-direction: column;
+	width: 320px;
+	height: 480px;
+	border-radius: 15px;
+}

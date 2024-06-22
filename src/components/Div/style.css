@@ -1,0 +1,16 @@
+.qr-texts {
+	display: grid;
+	gap: 10px;
+	width: 288px;
+	font-size: 15px;
+	padding: 10px;
+	font-family: Outfit;
+	text-align: center;
+	h1 {
+		color: hsl(218, 44%, 22%);
+		font-weight: 700;
+	}
+	p {
+		color: hsl(220, 15%, 55%);
+	}
+}
